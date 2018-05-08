@@ -38,3 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ## Solved Problems:
 1. XOR-problem using the classical learning algorithm FNN Neuron Model.
+2. [Traveling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem) using Self-Organising Map.
